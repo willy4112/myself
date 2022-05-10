@@ -6,3 +6,9 @@
 
 # 安裝numpy
 4. py -m pip install numpy
+
+# 安裝OpenCV
+# 參考資料：https://iter01.com/543108.html
+1. 確認pytohn版本
+2. 下載對應的OpenCV
+3. pip install opencv-python
