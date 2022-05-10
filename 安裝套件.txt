@@ -1,0 +1,8 @@
+# 於python IDLE下安裝pandas
+
+1. 找到安裝python的資料夾，如(C:\Windows\System32\cmd.exe)
+2. 開啟cmd
+3. py -m pip install pandas
+
+# 安裝numpy
+4. py -m pip install numpy
