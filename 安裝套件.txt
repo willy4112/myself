@@ -25,3 +25,13 @@ conda update conda
 conda update anaconda
 # 檢視已經安裝的包：
 pip list 或者 conda list
+
+
+# 將程式打包成exe
+# 參考資料：https://iter01.com/538918.html
+# 先安裝pyinstaller
+conda install pyinstaller
+# 檢視pyinstaller版本，看是否安裝成功
+pyinstaller -v
+# 打包檔案，多檔案(-D)
+pyinstaller -D XXX.py
