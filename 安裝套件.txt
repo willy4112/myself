@@ -25,6 +25,8 @@ conda update conda
 conda update anaconda
 # 檢視已經安裝的包：
 pip list 或者 conda list
+# 進入環境XXX
+activate XXX
 
 
 # 將程式打包成exe
