@@ -25,6 +25,8 @@ conda update conda
 conda update anaconda
 # 檢視已經安裝的包：
 pip list 或者 conda list
+# 查看有哪些環境
+conda env list
 # 進入環境XXX
 activate XXX
 
